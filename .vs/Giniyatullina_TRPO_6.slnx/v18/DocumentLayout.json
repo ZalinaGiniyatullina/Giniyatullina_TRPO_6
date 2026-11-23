@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\giniyatullina_trpo_6\\styles\\ui\\controls.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|solutionrelative:giniyatullina_trpo_6\\styles\\ui\\controls.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\giniyatullina_trpo_6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|solutionrelative:giniyatullina_trpo_6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\giniyatullina_trpo_6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|solutionrelative:giniyatullina_trpo_6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\giniyatullina_trpo_6\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|solutionrelative:giniyatullina_trpo_6\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\giniyatullina_trpo_6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|solutionrelative:giniyatullina_trpo_6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\giniyatullina_trpo_6\\styles\\colors\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|solutionrelative:giniyatullina_trpo_6\\styles\\colors\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\giniyatullina_trpo_6\\styles\\colors\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B8391A4-BE01-48C7-AFE9-AFD259DD4DAC}|Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6.csproj|solutionrelative:giniyatullina_trpo_6\\styles\\colors\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Giniyatullina_TRPO_6\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\App.xaml.cs",
+              "RelativeToolTip": "Giniyatullina_TRPO_6\\App.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T14:13:27.406Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\App.xaml",
+              "RelativeDocumentMoniker": "Giniyatullina_TRPO_6\\App.xaml",
+              "ToolTip": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\App.xaml",
+              "RelativeToolTip": "Giniyatullina_TRPO_6\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T14:08:17.667Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controls.xaml",
+              "DocumentMoniker": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\Styles\\UI\\Controls.xaml",
+              "RelativeDocumentMoniker": "Giniyatullina_TRPO_6\\Styles\\UI\\Controls.xaml",
+              "ToolTip": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\Styles\\UI\\Controls.xaml",
+              "RelativeToolTip": "Giniyatullina_TRPO_6\\Styles\\UI\\Controls.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T14:04:07.209Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\Styles\\Colors\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "Giniyatullina_TRPO_6\\Styles\\Colors\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\Styles\\Colors\\DarkTheme.xaml",
+              "RelativeToolTip": "Giniyatullina_TRPO_6\\Styles\\Colors\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T14:03:53.064Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\Styles\\Colors\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "Giniyatullina_TRPO_6\\Styles\\Colors\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\Styles\\Colors\\LightTheme.xaml",
+              "RelativeToolTip": "Giniyatullina_TRPO_6\\Styles\\Colors\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T14:03:38.295Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Giniyatullina_TRPO_6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\MainWindow.xaml",
+              "RelativeToolTip": "Giniyatullina_TRPO_6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T13:46:49.566Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Giniyatullina_TRPO_6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User0726\\Desktop\\\u0434\u0437\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E\\Giniyatullina_TRPO_6\\Giniyatullina_TRPO_6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Giniyatullina_TRPO_6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:46:46.804Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
